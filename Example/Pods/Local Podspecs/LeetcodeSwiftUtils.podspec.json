@@ -1,0 +1,22 @@
+{
+  "name": "LeetcodeSwiftUtils",
+  "version": "0.1.0",
+  "summary": "A short description of LeetcodeSwiftUtils.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/gssdromen/LeetcodeSwiftUtils",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "gssdromen": "example@xx.com"
+  },
+  "source": {
+    "git": "https://github.com/gssdromen/LeetcodeSwiftUtils.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LeetcodeSwiftUtils/Classes/**/*"
+}

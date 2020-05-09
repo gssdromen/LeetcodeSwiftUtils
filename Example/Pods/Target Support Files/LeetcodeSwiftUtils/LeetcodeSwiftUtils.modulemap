@@ -1,0 +1,6 @@
+framework module LeetcodeSwiftUtils {
+  umbrella header "LeetcodeSwiftUtils-umbrella.h"
+
+  export *
+  module * { export * }
+}

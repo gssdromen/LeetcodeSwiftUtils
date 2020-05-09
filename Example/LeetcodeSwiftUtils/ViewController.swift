@@ -7,12 +7,15 @@
 //
 
 import UIKit
+import LeetcodeSwiftUtils
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        let node = generateLinkedList([2,23,1,1,43,5,5,567,123,45])
+        printLinkedList(node)
     }
 
     override func didReceiveMemoryWarning() {
